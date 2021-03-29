@@ -183,7 +183,7 @@ void screen_print() {
 
     printf("%f\r\n", ADCdata[i]);
 
-    //ThisThread::sleep_for(100ms);
+    ThisThread::sleep_for(100ms);
 
   }
 }
