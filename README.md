@@ -22,7 +22,7 @@
 除此之外，由於使用了thread的方法來存取sample到的資料以及輸出資料到screen上，因此也比較不會造成時間上的延遲。\
 \
 \
-使用FFT python code來對sample好的資料作圖，結果如下:
+使用FFT python code來對sample好的資料作圖，結果如下:\
 3Hz:\
 ![image](https://user-images.githubusercontent.com/79581724/113017245-d6910800-91b1-11eb-835e-6c52fd6d1fad.png)
 
