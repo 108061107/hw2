@@ -23,6 +23,7 @@
 \
 \
 使用FFT python code來對sample好的資料作圖，結果如下:\
+\
 3Hz:\
 ![image](https://user-images.githubusercontent.com/79581724/113017245-d6910800-91b1-11eb-835e-6c52fd6d1fad.png)
 
